@@ -1,0 +1,4 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/rodrigocfd/windigo v0.0.0-20220301135806-8e195532cc4c h1:EhBRzkDBQGqf6bTWSaZ3UwaOeGMocmRLa+2UCdsA4JE=
+github.com/rodrigocfd/windigo v0.0.0-20220301135806-8e195532cc4c/go.mod h1:MW/87P744bxkvl5bw4PIAt9OHy56IyIqIRcotQUpG50=
